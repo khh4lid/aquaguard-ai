@@ -1,0 +1,21 @@
+{
+  "model_num": 2,
+  "best_variant": "YOLOv9c",
+  "trained_on": "MERGED (kpz2 + didi_childv1)",
+  "selection_reason": "Highest AP50_child at FPS > 8 \u2014 child recall is critical",
+  "metrics": {
+    "Variant": "YOLOv9c",
+    "mAP50": 0.9168,
+    "mAP50-95": 0.5752,
+    "Precision": 0.9046,
+    "Recall": 0.856,
+    "F1": 0.8796,
+    "Inf_ms": 2.3,
+    "FPS": 427.2,
+    "Train_s": 2512.0,
+    "Weights": "/content/drive/MyDrive/AquaGuard_AI/results/model2_child_adult/training/yolov9c/weights/best.pt",
+    "AP50_adult": 0.9112,
+    "AP50_child": 0.9224
+  },
+  "selected_at": "2026-05-29T11:51:36.404179"
+}
