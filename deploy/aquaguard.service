@@ -1,0 +1,17 @@
+[Unit]
+Description=AquaGuard AI — child pool safety monitor
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=pi
+WorkingDirectory=/home/pi/aquaguard-ai
+Environment=HEADLESS=true
+# Use the venv's python (created with --system-site-packages so picamera2 is visible)
+ExecStart=/home/pi/aquaguard-ai/.venv/bin/python deploy/main.py
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
