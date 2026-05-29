@@ -144,9 +144,9 @@ Model 2 — YOLOv9c ──────────→ Classifies every person: C
 
 ### Training Results
 
-<img src="results/model1_pool_seg/comparison/variant_comparison.png" alt="Variant comparison" width="100%"/>
+<img src="results/model1_pool_seg/variant_comparison.png" alt="Variant comparison" width="100%"/>
 
-<img src="results/model1_pool_seg/comparison/training_curves.png" alt="Training curves" width="100%"/>
+<img src="results/model1_pool_seg/training_curves.png" alt="Training curves" width="100%"/>
 
 ### Model Comparison
 
@@ -204,9 +204,9 @@ Model 2 — YOLOv9c ──────────→ Classifies every person: C
 
 ### Training Results
 
-<img src="results/model2_child_adult/comparison/comparison_plot.png" alt="Model comparison" width="100%"/>
+<img src="results/model2_child_adult/comparison_plot.png" alt="Model comparison" width="100%"/>
 
-<img src="results/model2_child_adult/comparison/training_curves.png" alt="Training curves" width="100%"/>
+<img src="results/model2_child_adult/training_curves.png" alt="Training curves" width="100%"/>
 
 ### Model Comparison
 
