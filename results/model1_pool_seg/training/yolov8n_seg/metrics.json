@@ -1,0 +1,11 @@
+{
+  "variant": "yolov8n_seg",
+  "mAP50_mask": 0.9315,
+  "mAP50_95_mask": 0.7706,
+  "mAP50_box": 0.9231,
+  "precision": 0.9278,
+  "recall": 0.8902,
+  "inference_ms": 1.35,
+  "fps": 742.3,
+  "saved_at": "2026-05-23T08:54:58.553090"
+}
