@@ -1,0 +1,5 @@
+Variant,mAP50,mAP50-95,Precision,Recall,F1,Inf_ms,FPS,Train_s,Weights,AP50_adult,AP50_child
+YOLOv9c,0.9168,0.5752,0.9046,0.856,0.8796,2.3,427.2,2512.0,/content/drive/MyDrive/AquaGuard_AI/results/model2_child_adult/training/yolov9c/weights/best.pt,0.9112,0.9224
+YOLOv8s,0.9148,0.5684,0.9005,0.8486,0.8738,0.7,1387.0,1015.6,/content/drive/MyDrive/AquaGuard_AI/results/model2_child_adult/training/yolov8s/weights/best.pt,0.9135,0.9162
+YOLOv8n,0.905,0.5442,0.8734,0.8269,0.8495,0.4,2515.8,785.0,/content/drive/MyDrive/AquaGuard_AI/results/model2_child_adult/training/yolov8n/weights/best.pt,0.9075,0.9025
+YOLOv10n,0.897,0.5426,0.8736,0.8114,0.8414,0.4,2272.2,1099.0,/content/drive/MyDrive/AquaGuard_AI/results/model2_child_adult/training/yolov10n/weights/best.pt,0.9011,0.8928
