@@ -1,0 +1,25 @@
+{
+  "dataset": "pool-localisation",
+  "workspace": "ehsangooyahotmailcom-6xaas",
+  "total_images": 1447,
+  "splits": {
+    "train": {
+      "images": 1266,
+      "labels": 1266
+    },
+    "valid": {
+      "images": 121,
+      "labels": 121
+    },
+    "test": {
+      "images": 60,
+      "labels": 60
+    }
+  },
+  "classes": [
+    "pool"
+  ],
+  "coverage_mean": 17.29,
+  "coverage_median": 14.48,
+  "generated_at": "2026-05-23T08:35:10.096210"
+}
