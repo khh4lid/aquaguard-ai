@@ -202,7 +202,7 @@ Model 2 — YOLOv9c ──────────→ Classifies every person: C
 
 ### Training Results
 
-<img src="results/model2_child_adult/comparison_plot.png" alt="Model comparison" width="100%"/>
+<img src="results/model2_child_adult/overall_comparison.png" alt="Model comparison" width="100%"/>
 
 <img src="results/model2_child_adult/training_curves.png" alt="Training curves" width="100%"/>
 
