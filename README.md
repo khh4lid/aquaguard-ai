@@ -181,7 +181,7 @@ Model 2 — YOLOv9c ──────────→ Classifies every person: C
 <br><em>Class distribution after merge — adult + child only</em>
 </td>
 <td align="center" width="50%">
-<img src="results/model2_child_adult/eda/dataset_sources.png" alt="Dataset sources" width="100%"/>
+<img src="results/model2_child_adult/eda/dataset_stats.png" alt="Dataset sources" width="100%"/>
 <br><em>Training images by source dataset</em>
 </td>
 </tr>
