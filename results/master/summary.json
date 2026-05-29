@@ -1,0 +1,10 @@
+{
+  "pool_model": "YOLOv8m-seg",
+  "child_model": "YOLOv9c",
+  "alerts": {
+    "danger": 858,
+    "emergency": 0
+  },
+  "speed_fps": 139.6,
+  "generated_at": "2026-05-29T12:55:07.913642"
+}
