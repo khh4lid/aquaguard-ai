@@ -1,0 +1,26 @@
+{
+  "dataset": "MERGED: kpz2/child-adult-elderly + thesis-7mcms/didi_childv1",
+  "sources": [
+    "/content/Child/Adult/Elderly-2",
+    "/content/DIDI_CHILDV1-1"
+  ],
+  "total_images": 8689,
+  "splits": {
+    "train": 6739,
+    "valid": 1309,
+    "test": 641
+  },
+  "class_names": [
+    "adult",
+    "child"
+  ],
+  "class_counts": {
+    "child": 27729,
+    "adult": 20450
+  },
+  "bbox_medians": {
+    "child": 0.306,
+    "adult": 3.986
+  },
+  "generated_at": "2026-05-29T10:21:19.609045"
+}
