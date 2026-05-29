@@ -146,8 +146,6 @@ Model 2 — YOLOv9c ──────────→ Classifies every person: C
 
 <img src="results/model1_pool_seg/variant_comparison.png" alt="Variant comparison" width="100%"/>
 
-<img src="results/model1_pool_seg/training_curves.png" alt="Training curves" width="100%"/>
-
 ### Model Comparison
 
 | Variant | mAP50 (mask) | Precision | Recall | FPS | Winner |
@@ -225,21 +223,21 @@ Model 2 — YOLOv9c ──────────→ Classifies every person: C
 
 ### Pipeline on Test Images
 
-<img src="results/master_final/test_seg_masks.png" alt="Seg mask quality" width="100%"/>
+<img src="results/master/test_pool_masks.png" alt="Seg mask quality" width="100%"/>
 
 *Pool segmentation masks — actual irregular polygon following real pool boundary*
 
-<img src="results/master_final/test_pipeline.png" alt="Pipeline test" width="100%"/>
+<img src="results/master/test_pipeline.png" alt="Pipeline test" width="100%"/>
 
 *Full pipeline: teal = pool zone · orange = child · blue = adult · red border = child inside pool*
 
 ### System Evaluation
 
-<img src="results/master_final/system_evaluation.png" alt="System evaluation" width="100%"/>
+<img src="results/master/evaluation.png" alt="System evaluation" width="100%"/>
 
 ### Sample Output Frames
 
-<img src="results/master_final/sample_frames.png" alt="Sample frames" width="100%"/>
+<img src="results/master/sample_frames.png" alt="Sample frames" width="100%"/>
 
 ### Pipeline Speed
 
