@@ -317,8 +317,8 @@ python scripts/download_models.py
 
 | Model | Variant | Size | Drive Link |
 |---|---|---|---|
-| Pool Segmentation | YOLOv8m-seg | 54.8 MB | ← *add Drive link* |
-| Child/Adult | YOLOv9c | ~104 MB | ← *add Drive link* |
+| Pool Segmentation | YOLOv8m-seg | 54.8 MB | ← *[Drive link](https://drive.google.com/file/d/17aHZsdLLXvAG9C1nLzuUTPi9_rRorNDD/view?usp=sharing)* |
+| Child/Adult | YOLOv9c | ~104 MB | ← *[Drive link](https://drive.google.com/file/d/1IGT9uFrJFYFJZy5CHxt72paOoMVPwbc1/view?usp=drive_link)* |
 
 ---
 
